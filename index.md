@@ -9,11 +9,9 @@ Frontend engineer with experience in 6 companies. Proactively solves vague probl
 - Twitter: [https://twitter.com/thebetterdaphne](https://twitter.com/thebetterdaphne)
 - Resume: [https://daphneliu.com/resume.pdf](https://daphneliu.com/resume.pdf)
 
-
-### Skills 
+### Skills
 
 TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL, Unix, Git
-
 
 ### Work
 
@@ -25,8 +23,8 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
       <li>On the Design systems team, built UI component library in React, TypeScript, and HTML/CSS used by 100+ frontend engineers.</li>
       <li>Unlocked a $10M government contract by elevating accessibility in all 89 products to meet industry standard (WCAG 2.0).</li>
       <li>Collaborated cross-functionally with 3 designers, 6 senior/staff engs to plan roadmap & ensure cross-platform consistency.</li>
-      <li>Led major release of new UI component library version by devising migration plan focused on resilience and adopted type safety across the board. Wrote thorough documentation and rallied a group of early adopters for safe rollout.</li> 
-      <li>Led shared rides in the web app, gathered requirements, broke down roadmap, ran experiments, and drove features to roll-out, yielding projected annualized impact of $600K profit and $1.5-4.6M bookings.</li> 
+      <li>Led major release of new UI component library version by devising migration plan focused on resilience and adopted type safety across the board. Wrote thorough documentation and rallied a group of early adopters for safe rollout.</li>
+      <li>Led shared rides in the web app, gathered requirements, broke down roadmap, ran experiments, and drove features to roll-out, yielding projected annualized impact of $600K profit and $1.5-4.6M bookings.</li>
       <li>Led notifications in web to increase promotion and reminder capabilities beyond mobile, reaching 27K new users per year.</li>
       <li>Ran monthly Frontend All-hands, breaking down knowledge silos and encouraged company-wide adoption of latest tools.</li>
       <li>Unblocked projects by proactively learning backend for notifications and autofill SMS and Android for gift cards.</li>
@@ -35,13 +33,20 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
   </div>
 </div>
 
+<div class="gallery">
+  <img src="assets/images/portfolio/lyft-product-language.webp" />
+  <img src="assets/images/portfolio/lyft-web-app-signed-out.png" />
+  <img src="assets/images/portfolio/lyft-mobile-settings.png" />
+</div>
+<div class="gallery-reserved-space"></div>
+
 <div class="industry-item">
   <img class="industry-logo" src="assets/logos/copysmith.svg" alt="" width="80" height="80">
   <div class="industry-info">
     <h5>Copysmith, Product Manager Intern <em>Jan 2021 – Apr 2021</em></h5>
     <ul>
-      <li>First Product Manager in a 15-people start-up, acting as a glue between teams shaped product roadmap.</li> 
-      <li>Increased MRR by 30%, acquired 61% new customers, and supported the company through acquisition.</li> 
+      <li>First Product Manager in a 15-people start-up, acting as a glue between teams shaped product roadmap.</li>
+      <li>Increased MRR by 30%, acquired 61% new customers, and supported the company through acquisition.</li>
     </ul>
   </div>
 </div>
@@ -122,13 +127,14 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
   <img src="assets/images/superposition.jpg" alt="Daphne speaking on panel at Superposition" width="225" height="150">
 </div>
 
-- **Speaker, ACM Richard Tapia Conference** -  ["Fueling Your Career With Coffee Chats"](https://tapiaconference.cmd-it.org/attend/presentation/?id=ind_pan115&sess=sess192) - Encouraged and taught 100+ underrepresented students to start networking in the tech industry.
+- **Speaker, ACM Richard Tapia Conference** - ["Fueling Your Career With Coffee Chats"](https://tapiaconference.cmd-it.org/attend/presentation/?id=ind_pan115&sess=sess192) - Encouraged and taught 100+ underrepresented students to start networking in the tech industry.
 - **Panelist, Superposition IV** - Spoke on a panel to 220+ high school students at a hackathon answering questions about my experiences and sharing advice to inspire the next generation of women in tech.
 - **Panelist, Microsoft Higher Education Summit** - Spoke on a panel to 150+ educators and university recruiters my experience between internships and university and proposed changes to classroom curriculum and internship structures.
 - **Emcee, Computer Science Orientation panel** – Selected by university to host a panel discussion between 5 club presidents during first-week orientation to help first year students decide what clubs to join.
 - **Emcee, Diversity in Computer Science Panel** – Hosted a panel discussion between 5 industry professionals and led Q&A for underrepresented groups to ask about their experience as women in tech industry.
 
-### Workshop 
+### Workshop
+
 - **Speaker, Lyft** – Led an accessibility workshop to onboard my team to contribute to improving accessibility in our web app.
 - **Speaker, Hack the 6ix** - Taught an [Android workshop](https://docs.google.com/presentation/d/13ctfuE2er8tIpMJBbsziaO-C1yIYmb5Gcf_QJ8IdyBA/edit?usp=sharing) at Toronto’s largest summer hackathon to 50+ students on making an Android app using Kotlin, Coroutines, Retrofit, and Google Maps API through live-coding.
 - **Speaker, Emerging Media Lab** – Taught an 3D-modelling workshop in Unity and Blender when working at an AR/VR lab.
@@ -190,10 +196,10 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
 
 Bachelor of Science in Computer Science
 
-
 ### Random fun facts
-- I'm a improv performer and sketch writer. 
+
+- I'm a improv performer and sketch writer.
 - I've been roasted on stage at a tech toast show.
 - I've won a genetic engineering competition in high school.
 - I've won a grape stomping competition.
-- I grew up in Taiwan. 
+- I grew up in Taiwan.

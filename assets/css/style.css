@@ -26,22 +26,21 @@ a:hover {
 
 .main-content {
   word-wrap: break-word;
+  max-width: 64rem;
+  margin: 0 auto;
+  font-size: 1.1rem;
 }
 .main-content :first-child {
   margin-top: 0;
 }
 @media screen and (min-width: 64em) {
   .main-content {
-    max-width: 64rem;
     padding: 2rem 6rem;
-    margin: 0 auto;
-    font-size: 1.1rem;
   }
 }
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .main-content {
     padding: 2rem 4rem;
-    font-size: 1.1rem;
   }
 }
 @media screen and (max-width: 42em) {
@@ -274,4 +273,24 @@ a:hover {
     height: 100px;
     width: auto;
   }
+}
+
+.gallery,
+.gallery-reserved-space {
+  height: max(200px, 60vh);
+  margin-bottom: 3rem;
+}
+.gallery {
+  position: absolute;
+  left: 1rem;
+  right: 1rem;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+}
+.gallery img {
+  max-width: none;
+  scroll-snap-align: start;
 }
