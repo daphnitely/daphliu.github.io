@@ -7,7 +7,11 @@ Frontend engineer with experience in 6 companies. Proactively solves vague probl
 - Email: [daphne.liu97@gmail.com](mailto:daphne.liu97@gmail.com)
 - Linkedin: [linkedin.com/in/thebetterdaphne/](https://www.linkedin.com/in/thebetterdaphne/)
 - Twitter: [https://twitter.com/thebetterdaphne](https://twitter.com/thebetterdaphne)
-- Resume: [https://daphneliu.com/resume.pdf](https://daphneliu.com/resume.pdf)
+
+### Resumes
+- Frontend: [https://daphneliu.com/resume.pdf](https://daphneliu.com/resume.pdf)
+- Developer Relations: [https://daphneliu.com/devrel_resume.pdf](https://daphneliu.com/devrel_resume.pdf)
+- Acting: [https://daphneliu.com/acting_resume.pdf](https://daphneliu.com/acting_resume.pdf)
 
 ### Skills
 
@@ -32,13 +36,6 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
     </ul>
   </div>
 </div>
-
-<div class="gallery">
-  <img src="assets/images/portfolio/lyft-product-language.webp" />
-  <img src="assets/images/portfolio/lyft-web-app-signed-out.png" />
-  <img src="assets/images/portfolio/lyft-mobile-settings.png" />
-</div>
-<div class="gallery-reserved-space"></div>
 
 <div class="industry-item">
   <img class="industry-logo" src="assets/logos/copysmith.svg" alt="" width="80" height="80">
