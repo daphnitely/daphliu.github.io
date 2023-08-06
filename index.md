@@ -2,12 +2,7 @@
 layout: default.liquid
 ---
 
-Frontend engineer with experience in 6 companies. Proactively solves vague problems by wearing many hats. Built accessible UI components libraries and led teams on 0 to 1 projects. Driven, entrepreneurial, product-minded, and customer-focused.
-
-Reach out to me at:  
-- Email: [daphne.liu97@gmail.com](mailto:daphne.liu97@gmail.com)
-- Linkedin: [linkedin.com/in/thebetterdaphne/](https://www.linkedin.com/in/thebetterdaphne/)
-- Twitter: [https://twitter.com/thebetterdaphne](https://twitter.com/thebetterdaphne)
+Frontend engineer with experience in 6 companies. Proactively solves vague problems by wearing many hats. Built accessible UI components libraries and led teams on 0 to 1 projects. Driven, entrepreneurial, product-minded, and customer-focused. Reach out to me through[email](mailto:daphne.liu97@gmail.com), [Linkedin](https://www.linkedin.com/in/thebetterdaphne/), or [Twitter](https://twitter.com/thebetterdaphne).  
 
 ### Resumes
 - Frontend: [https://daphneliu.com/resume.pdf](https://daphneliu.com/resume.pdf)
