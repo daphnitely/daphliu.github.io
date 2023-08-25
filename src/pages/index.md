@@ -1,10 +1,11 @@
 ---
-layout: default.liquid
+layout: ../layouts/Default.astro
 ---
 
-Frontend engineer with experience in 6 companies. Proactively solves vague problems by wearing many hats. Built accessible UI components libraries and led teams on 0 to 1 projects. Driven, entrepreneurial, product-minded, and customer-focused. Reach out to me through [email](mailto:daphne.liu97@gmail.com), [Linkedin](https://www.linkedin.com/in/thebetterdaphne/), or [Twitter](https://twitter.com/thebetterdaphne).  
+Frontend engineer with experience in 6 companies. Proactively solves vague problems by wearing many hats. Built accessible UI components libraries and led teams on 0 to 1 projects. Driven, entrepreneurial, product-minded, and customer-focused. Reach out to me through [email](mailto:daphne.liu97@gmail.com), [Linkedin](https://www.linkedin.com/in/thebetterdaphne/), or [Twitter](https://twitter.com/thebetterdaphne).
 
 ### Resumes
+
 - Frontend: [https://daphneliu.com/resume.pdf](https://daphneliu.com/resume.pdf)
 - Developer Relations: [https://daphneliu.com/devrel_resume.pdf](https://daphneliu.com/devrel_resume.pdf)
 - Acting: [https://daphneliu.com/acting_resume.pdf](https://daphneliu.com/acting_resume.pdf)

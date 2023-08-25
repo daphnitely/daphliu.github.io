@@ -1,0 +1,68 @@
+---
+import "normalize.css";
+import "../styles/style.css";
+
+const title = "Daphne Liu";
+const description =
+  "Frontend engineer, conference speaker, improv performer, and founder of UBC Women in CS.";
+---
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+
+    <title>
+      {title} | {description}
+    </title>
+    <meta property="og:title" content={title} />
+    <meta property="og:locale" content="en_US" />
+    <meta name="description" content={description} />
+    <meta property="og:description" content={description} />
+    <link rel="canonical" href="https://daphneliu.com" />
+    <meta property="og:url" content="https://daphneliu.com" />
+    <meta property="og:site_name" content={title} />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <meta property="twitter:title" content={title} />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "description": "Frontend engineer, conference speaker, improv performer, and founder of UBC Women in CS.",
+        "headline": "Daphne Liu",
+        "name": "Daphne Liu",
+        "url": "https://daphneliu.com/"
+      }
+    </script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#157878" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <section class="page-header"></section>
+
+    <header class="profile-header">
+      <img
+        class="profile-image"
+        alt="Portrait of Daphne"
+        height="300"
+        width="300"
+        src="assets/images/face-300w.jpg"
+        srcset="assets/images/face-300w.jpg 300w, assets/images/face-600w.jpg 600w"
+      />
+      <h1 class="project-name">{title}</h1>
+      <h2 class="project-tagline">{description}</h2>
+    </header>
+
+    <section class="main-content">
+      <slot />
+    </section>
+  </body>
+</html>

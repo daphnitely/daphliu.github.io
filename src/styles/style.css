@@ -120,7 +120,7 @@ a:hover {
 
 .page-header {
   background-color: var(--header-bg-color);
-  background-image: url("../images/background.jpg");
+  background-image: url("/assets/images/background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   border-bottom: 20px solid var(--header-bg-color);

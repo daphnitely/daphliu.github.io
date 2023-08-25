@@ -1,24 +1,21 @@
 {
   "name": "daphnitely.github.io",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "type": "module",
+  "private": true,
   "scripts": {
-    "start": "eleventy"
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/daphnitely/daphnitely.github.io.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/daphnitely/daphnitely.github.io/issues"
-  },
-  "homepage": "https://github.com/daphnitely/daphnitely.github.io#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.1"
+    "astro": "^2.10.14"
   },
   "dependencies": {
     "normalize.css": "^8.0.1"
