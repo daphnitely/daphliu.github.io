@@ -1,6 +1,6 @@
 {
-  "name": "daphnitely.github.io",
-  "version": "1.0.0",
+  "name": "daphneoakes.com",
+  "version": "2.0.0",
   "type": "module",
   "private": true,
   "scripts": {
@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daphnitely/daphnitely.github.io.git"
+    "url": "git+https://github.com/daphnitely/daphneliu.com.git"
   },
   "devDependencies": {
-    "astro": "^2.10.14"
+    "astro": "^4.0.0"
   },
   "dependencies": {
     "normalize.css": "^8.0.1"
