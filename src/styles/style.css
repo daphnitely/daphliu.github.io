@@ -24,6 +24,11 @@ a:hover {
   text-decoration: underline;
 }
 
+h1, h2 {
+  font-weight: 400;
+  font-family: 'Righteous', 'Trebuchet MS', sans-serif;
+}
+
 .main-content {
   word-wrap: break-word;
   max-width: 64rem;
@@ -52,15 +57,10 @@ a:hover {
 .main-content img {
   max-width: 100%;
 }
-.main-content h1,
 .main-content h2,
-.main-content h3,
-.main-content h4,
-.main-content h5,
-.main-content h6 {
+.main-content h3 {
   margin-top: 2rem;
   margin-bottom: 1rem;
-  font-weight: normal;
 }
 .main-content p {
   margin-bottom: 1em;
@@ -170,7 +170,6 @@ a:hover {
 }
 
 .project-name {
-  text-transform: uppercase;
   padding-top: 1rem;
   margin-top: 0;
   margin-bottom: 0.1rem;
@@ -222,11 +221,11 @@ a:hover {
 .main-content {
   clear: both;
 }
-.main-content h3 {
+.main-content h2 {
   text-align: center;
   font-size: 2rem;
 }
-.main-content h3::after {
+.main-content h2::after {
   content: "";
   display: block;
   background: var(--brand-color);
@@ -235,7 +234,7 @@ a:hover {
   margin: auto;
 }
 
-.main-content h5 {
+.main-content h3 {
   display: flex;
   font-size: inherit;
   font-weight: bold;
@@ -243,7 +242,7 @@ a:hover {
   margin-top: 1rem;
   margin-bottom: 0;
 }
-.main-content h5 em {
+.main-content h3 em {
   font-weight: normal;
   margin-left: auto;
 }
