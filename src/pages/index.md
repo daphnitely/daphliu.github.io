@@ -17,9 +17,16 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
 ## Work
 
 <div class="industry-item">
+  <img class="industry-logo" src="assets/logos/grow.png" alt="" width="80" height="80">
+  <div class="industry-info">
+    <h3>Grow Therapy, Software Engineer II <em>Aug 2023 – Present</em></h3>
+  </div>
+</div>
+
+<div class="industry-item">
   <img class="industry-logo" src="assets/logos/lyft.svg" alt="" width="80" height="80">
   <div class="industry-info">
-    <h3>Lyft, Frontend Engineer II <em>Aug 2021 – Apr 2023</em></h3>
+    <h3>Lyft, Software Engineer II <em>Aug 2021 – Apr 2023</em></h3>
     <ul>
       <li>On the Design systems team, built UI component library in React, TypeScript, and HTML/CSS used by 100+ frontend engineers.</li>
       <li>Unlocked a $10M government contract by elevating accessibility in all 89 products to meet industry standard (WCAG 2.0).</li>
@@ -48,7 +55,7 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
 <div class="industry-item">
   <img class="industry-logo" src="assets/logos/lyft.svg" alt="" width="80" height="80">
   <div class="industry-info">
-    <h3>Lyft, Software Developer Intern <em>June 2020 – July 2020</em></h3>
+    <h3>Lyft, Software Developer Intern <em>Jun 2020 – Jul 2020</em></h3>
     <ul>
       <li>Built coupon, shortcuts, payment methods, and dark mode with React and TypeScript for Lyft on the web.</li>
       <li>Added support for A/B testing and created guidelines to set up experiments and control roll-out.</li>

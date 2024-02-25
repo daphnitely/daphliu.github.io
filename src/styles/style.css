@@ -217,6 +217,9 @@ h1, h2 {
 .industry-logo {
   margin-right: 1rem;
 }
+.industry-info {
+  flex-grow: 1;
+}
 
 .main-content {
   clear: both;
@@ -245,6 +248,7 @@ h1, h2 {
 .main-content h3 em {
   font-weight: normal;
   margin-left: auto;
+  white-space: nowrap;
 }
 
 .float-images {
