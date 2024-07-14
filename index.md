@@ -2,23 +2,32 @@
 layout: default.liquid
 ---
 
-Frontend engineer with experience in 6 companies. Proactively solves vague problems by wearing many hats. Built accessible UI components libraries and led teams on 0 to 1 projects. Driven, entrepreneurial, product-minded, and customer-focused. Reach out to me through [email](mailto:daphne.liu97@gmail.com), [Linkedin](https://www.linkedin.com/in/thebetterdaphne/), or [Twitter](https://twitter.com/thebetterdaphne).  
+Software engineer, Actor, Comedian. Reach out to me through: 
+- [email](mailto:contact@daphneoakes.com)
+- [Linkedin](https://www.linkedin.com/in/thebetterdaphne/)
+- [Twitter](https://twitter.com/thebetterdaphne).  
 
 ### Resumes
-- Frontend: [https://daphneliu.com/resume.pdf](https://daphneliu.com/resume.pdf)
-- Developer Relations: [https://daphneliu.com/devrel_resume.pdf](https://daphneliu.com/devrel_resume.pdf)
-- Acting: [https://daphneliu.com/acting_resume.pdf](https://daphneliu.com/acting_resume.pdf)
-
-### Skills
-
-TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL, Unix, Git
+- Coding: [https://daphneoakes.com/resume.pdf](https://daphneoakes.com/resume.pdf)
+- Acting: [https://daphneliu.com/acting_resume.pdf](https://daphneoakes.com/acting_resume.pdf)
 
 ### Work
+<div class="industry-item">
+  <img class="industry-logo" src="assets/logos/growtherapy.svg" alt="" width="80" height="80">
+  <div class="industry-info">
+    <h5>Grow Therapy, Software Engineer <em>Aug 2023 – Present</em></h5>
+    <ul>
+      <li> Automates process to launch a new partnership with a Retool frontend and data flow through Redis, Flask, NextJS.</li>
+      <li>Drives the FE task force to oversee Sentry, an error tracking tool, to catch errors before production and prevent outages.</li>
+      <li>Runs the internal tech talks, team highlight talk series, and the Asian employee resource group.</li>
+    </ul>
+  </div>
+</div>
 
 <div class="industry-item">
   <img class="industry-logo" src="assets/logos/lyft.svg" alt="" width="80" height="80">
   <div class="industry-info">
-    <h5>Lyft, Frontend Engineer II <em>Aug 2021 – Apr 2023</em></h5>
+    <h5>Lyft, Software Engineer <em>Aug 2021 – Apr 2023</em></h5>
     <ul>
       <li>On the Design systems team, built UI component library in React, TypeScript, and HTML/CSS used by 100+ frontend engineers.</li>
       <li>Unlocked a $10M government contract by elevating accessibility in all 89 products to meet industry standard (WCAG 2.0).</li>
@@ -115,10 +124,22 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
 
 ### Speaking
 
-- **Speaker, CascadiaJS Conference** - ["How we Automated our Relationship"](https://youtu.be/Zxe7bDZweoI?t=76) - A technical and comedic talk on how my fiancé and I maintain our relationship by automating cooking, laundry, and calendar using NodeJS, Notion/Trello APIs and IoT, in front 250+ attendees in both conferences.
+- **Emcee, CascadiaJS 2024** - Introduced 22 speakers with [themed intros](https://lnkd.in/dh2egsD9) (Ex. Pokémon, regency, rapping, he-Man singalong), managed the flow of event, and get the crowd excited about the conference!  
 <div class="float-images">
   <img src="assets/images/superposition.jpg" alt="Daphne speaking on panel at Superposition" width="225" height="150">
 </div>
+
+- **Emcee, Typescript Congress 2024** - Engaged the audience through an online conference and transitioned between event segments. 
+<div class="float-images">
+  <img src="assets/images/superposition.jpg" alt="Daphne speaking on panel at Superposition" width="225" height="150">
+</div>
+
+- **Emcee, SeattleJS 2024** - ["Move over passwords, passkeys are my new best friend"](https://www.youtube.com/watch?v=a3yZUPMMTQw&t=95s) - A murder mystery themed talk on the death of password. I delved into the emerging use of passkeys - what they are and how they work, as we move towards a passwordless future. 
+<div class="float-images">
+  <img src="assets/images/superposition.jpg" alt="Daphne speaking on panel at Superposition" width="225" height="150">
+</div>
+
+- **Speaker, CascadiaJS Conference** - ["How we Automated our Relationship"](https://youtu.be/Zxe7bDZweoI?t=76) - A technical and comedic talk on automating cooking, laundry, and calendar using NodeJS, Notion/Trello APIs and IoT, in front 250+ attendees in both conferences.
 
 - **Speaker, ACM Richard Tapia Conference** - ["Fueling Your Career With Coffee Chats"](https://tapiaconference.cmd-it.org/attend/presentation/?id=ind_pan115&sess=sess192) - Encouraged and taught 100+ underrepresented students to start networking in the tech industry.
 - **Panelist, Superposition IV** - Spoke on a panel to 220+ high school students at a hackathon answering questions about my experiences and sharing advice to inspire the next generation of women in tech.
@@ -188,6 +209,10 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
 ##### University of British Columbia _Sep 2015 - May 2021_
 
 Bachelor of Science in Computer Science
+
+### Skills
+
+TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL, Unix, Git
 
 ### Random fun facts
 
