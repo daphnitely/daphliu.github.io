@@ -200,14 +200,14 @@ layout: ../layouts/Default.astro
 
 Bachelor of Science in Computer Science
 
-### Skills
+## Skills
 
 TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL, Unix, Git
 
 ## Random fun facts
 
-- I'm a improv performer and sketch writer.
-- I've been roasted on stage at a tech toast show.
-- I've won a genetic engineering competition in high school.
+- I've been roasted at a tech toast show. 
 - I've won a grape stomping competition.
-- I grew up in Taiwan.
+- My legal middle name is Danger.
+- One of my favorite bands is a pirate metal band.
+- I was born and raised in Taiwan.
