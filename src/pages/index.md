@@ -2,11 +2,7 @@
 layout: ../layouts/Default.astro
 ---
 
-Software engineer, conference speaker, improvisor, sketch writer, standup comedian, emcee. <br>
-Reach out to me through: 
-- [email](mailto:contact@daphneoakes.com)
-- [Linkedin](https://www.linkedin.com/in/thebetterdaphne/)
-- [Twitter](https://twitter.com/thebetterdaphne)
+ Hi passerby👋 I'm a software engineer, speaker, and actor! I enjoy performing improv, standup comedy, and sketch writing. I love making friends and getting to know people on a deeper level. If you want to yap with me all day, reach out to me at [email](mailto:contact@daphneoakes.com), [Linkedin](https://www.linkedin.com/in/thebetterdaphne/), or [Twitter](https://twitter.com/thebetterdaphne). Have the best day of your life!
 
 ## Resumes
 
