@@ -1,7 +1,9 @@
 ---
 import "normalize.css";
 import "@fontsource/righteous";
+import { Image } from 'astro:assets';
 import "../styles/style.css";
+import face from '../pages/_face.jpg'
 
 const title = "Daphne Oakes";
 const description =
@@ -50,13 +52,14 @@ const description =
     <section class="page-header"></section>
 
     <header class="profile-header">
-      <img
+      <Image
         class="profile-image"
         alt="Portrait of Daphne"
         height="300"
         width="300"
-        src="assets/images/face-300w.jpg"
-        srcset="assets/images/face-300w.jpg 300w, assets/images/face-600w.jpg 600w"
+        densities={[1, 1.5, 2]}
+        src={face}
+        loading="eager"
       />
       <h1 class="project-name">{title}</h1>
       <p class="project-tagline">{description}</p>
