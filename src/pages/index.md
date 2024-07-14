@@ -2,17 +2,16 @@
 layout: ../layouts/Default.astro
 ---
 
-Frontend engineer with experience in 6 companies. Proactively solves vague problems by wearing many hats. Built accessible UI components libraries and led teams on 0 to 1 projects. Driven, entrepreneurial, product-minded, and customer-focused. Reach out to me through [email](mailto:daphne.liu97@gmail.com), [Linkedin](https://www.linkedin.com/in/thebetterdaphne/), or [Twitter](https://twitter.com/thebetterdaphne).
+Software engineer, conference speaker, improvisor, sketch writer, standup comedian, emcee. <br>
+Reach out to me through: 
+- [email](mailto:contact@daphneoakes.com)
+- [Linkedin](https://www.linkedin.com/in/thebetterdaphne/)
+- [Twitter](https://twitter.com/thebetterdaphne)
 
 ## Resumes
 
-- Frontend: [https://daphneoakes.com/resume.pdf](https://daphneoakes.com/resume.pdf)
-- Developer Relations: [https://daphneoakes.com/devrel_resume.pdf](https://daphneoakes.com/devrel_resume.pdf)
+- Coding: [https://daphneoakes.com/resume.pdf](https://daphneoakes.com/resume.pdf)
 - Acting: [https://daphneoakes.com/acting_resume.pdf](https://daphneoakes.com/acting_resume.pdf)
-
-## Skills
-
-TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL, Unix, Git
 
 ## Work
 
@@ -20,6 +19,11 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
   <img class="industry-logo" src="assets/logos/grow.png" alt="" width="80" height="80">
   <div class="industry-info">
     <h3>Grow Therapy, Software Engineer II <em>Aug 2023 – Present</em></h3>
+    <ul>
+      <li>Automates process to launch a new partnership with a Retool frontend and data flow through Redis, Flask, NextJS.</li>
+      <li>Drives the FE task force to oversee Sentry, an error tracking tool, to catch errors before production and prevent outages.</li>
+      <li>Runs the internal tech talks, team highlight talk series, and the Asian employee resource group.</li>
+    </ul>
   </div>
 </div>
 
@@ -123,11 +127,14 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
 
 ## Speaking
 
-- **Speaker, CascadiaJS Conference** - ["How we Automated our Relationship"](https://youtu.be/Zxe7bDZweoI?t=76) - A technical and comedic talk on how my fiancé and I maintain our relationship by automating cooking, laundry, and calendar using NodeJS, Notion/Trello APIs and IoT, in front 250+ attendees in both conferences.
+- **Emcee, CascadiaJS 2024** - Introduced 22 speakers with [themed intros](https://lnkd.in/dh2egsD9) (Ex. Pokémon, regency, rapping, he-Man singalong), managed the flow of event, and got the crowd excited about the conference!
 <div class="float-images">
   <img src="assets/images/superposition.jpg" alt="Daphne speaking on panel at Superposition" width="225" height="150">
 </div>
 
+- **Emcee, Typescript Congress 2024** - Engaged the audience through an online conference and transitioned between event segments.
+- **Speaker, SeattleJS 2023** - ["Move over passwords, passkeys are my new best friend"](https://www.youtube.com/watch?v=a3yZUPMMTQw&t=95s) - A murder mystery themed talk on the death of password. I delved into the emerging use of passkeys - what they are and how they work, as we move towards a passwordless future.
+- **Speaker, CascadiaJS 2022** - ["How we Automated our Relationship"](https://youtu.be/Zxe7bDZweoI?t=76) - A technical and comedic talk on automating cooking, laundry, and calendar using NodeJS, Notion/Trello APIs and IoT, in front 250+ attendees in both conferences.
 - **Speaker, ACM Richard Tapia Conference** - ["Fueling Your Career With Coffee Chats"](https://tapiaconference.cmd-it.org/attend/presentation/?id=ind_pan115&sess=sess192) - Encouraged and taught 100+ underrepresented students to start networking in the tech industry.
 - **Panelist, Superposition IV** - Spoke on a panel to 220+ high school students at a hackathon answering questions about my experiences and sharing advice to inspire the next generation of women in tech.
 - **Panelist, Microsoft Higher Education Summit** - Spoke on a panel to 150+ educators and university recruiters my experience between internships and university and proposed changes to classroom curriculum and internship structures.
@@ -196,6 +203,10 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
 ### University of British Columbia _Sep 2015 - May 2021_
 
 Bachelor of Science in Computer Science
+
+### Skills
+
+TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL, Unix, Git
 
 ## Random fun facts
 
